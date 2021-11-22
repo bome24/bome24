@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=appveyor"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bome24)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true)
+
 
 
 <!--
