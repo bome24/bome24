@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Welcome to BoMin's GitHub&fontSize=60&animation=twinkling&fontAlignY=40" />
 </p>
-  
 <h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white"/></a>&nbsp 
