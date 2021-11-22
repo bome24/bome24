@@ -2,11 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=(11,1,10)&height=200&section=header&text=Welcome to BoMin's GitHub&fontSize=60&animation=twinkling&fontAlignY=40" />
 </p>
 
-<h3 align="center">💻 I’m currently learning ... 💻</h3>
+<h3 align="center">💻 I’m currently learning ... (in school) 💻</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cpp&logoColor=white"/></a>&nbsp 
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cpp&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Cpp&logoColor=white"/></a>&nbsp
+</p>
+
+<h3 align="center">💻 I’m currently learning ... (by myself) 💻</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">⚡ GitHub Status ⚡</h3>
