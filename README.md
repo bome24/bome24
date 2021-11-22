@@ -4,13 +4,13 @@
 
 <h3 align="center">💻 I’m currently learning ... (in school) 💻</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">💻 I’m currently learning ... (by myself) 💻</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/></a>&nbsp
 </p>
 
 <h3 align="center">⚡ GitHub Status ⚡</h3>
