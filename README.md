@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=(0,2,3)&height=200&section=header&text=Welcome to BoMin's GitHub&fontSize=60&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=(11,1,10)&height=200&section=header&text=Welcome to BoMin's GitHub&fontSize=60&animation=twinkling&fontAlignY=40" />
 </p>
-<h3 align="center">💻 Tech Stack 💻</h3>
+
+<h3 align="center">💻 I’m currently learning ... 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white"/></a>&nbsp 
   <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=appveyor"/></a>&nbsp
 </p>
 
-<h3 align="center">💻 GitHub Status 💻</h3>
-
+<h3 align="center">⚡ GitHub Status ⚡</h3>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true)
 
 
