@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome to BoMin's GitHub&fontSize=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome to BoMin's GitHub&fontSize=50&animation=twinkling" />
 </p>
   
 <h3 align="center">💻 Tech Stack 💻</h3>
