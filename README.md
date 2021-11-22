@@ -2,6 +2,9 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=appveyor"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bome24)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **bome24/bome24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
