@@ -1,5 +1,5 @@
-### Hi there 👋
-### My name is BoMin...!
+![header](https://capsule-render.vercel.app/api?
+type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **bome24/bome24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
