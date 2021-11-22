@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=LeeBoMin&fontSize=90)
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=appveyor"/>
+
 <!--
 **bome24/bome24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
