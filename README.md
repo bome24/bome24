@@ -4,9 +4,9 @@
 
 <h3 align="center">💻 I’m currently learning ... 💻</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cpp&logoColor=white"/></a>&nbsp 
   <br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=appveyor"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript"/></a>&nbsp
 </p>
 
 <h3 align="center">⚡ GitHub Status ⚡</h3>
