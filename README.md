@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">⚡ GitHub Status ⚡</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true&theme=dracula">
 
 
 
