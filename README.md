@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=(11,1,10)&height=200&section=header&text=Welcome to BoMin's GitHub&fontSize=60&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=(0, 11, 2)&height=200&section=header&text=Welcome to BoMin's GitHub&fontSize=60&animation=twinkling&fontAlignY=40" />
 </p>
 
 <h3 align="center">💻 I’m currently learning ... (in school) 💻</h3>
@@ -14,8 +14,9 @@
 </p>
 
 <h3 align="center">⚡ GitHub Status ⚡</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true&theme=dracula">
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true&theme=dracula">
+</p>
 
 
 
