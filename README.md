@@ -4,7 +4,7 @@
 
 <h3 align="center">💻 I’m currently learning ... (in school) 💻</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cpp&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 
