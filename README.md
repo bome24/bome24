@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
   </a>&nbsp
   <a href="https://fastcampus.co.kr/dev_online_iosappfinal">
-    <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white"/>
   </a>&nbsp
 </p>
 
