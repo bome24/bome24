@@ -20,6 +20,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true&theme=dracula&icon_color=AA0017">
 </p>
 
+<h3 align="center">⚡ Baekjoon Status ⚡</h3>
+<p align="center">
+  [![Solved.ac Profile]
+  (http://mazassumnida.wtf/api/v2/generate_badge?boj=bome24)]
+  (https://solved.ac/bome24/)
+</p>
+
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/keibmlee@naver.com-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>&nbsp
