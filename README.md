@@ -22,9 +22,7 @@
 
 <h3 align="center">⚡ Baekjoon Status ⚡</h3>
 <p align="center">
-  [![Solved.ac Profile]
-  (http://mazassumnida.wtf/api/v2/generate_badge?boj=bome24)]
-  (https://solved.ac/bome24/)
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bome24">
 </p>
 
 <h3 align="center">📫 How to reach me 📫</h3>
