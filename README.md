@@ -14,7 +14,7 @@
 
 <h3 align="center">⚡ GitHub Status ⚡</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true&theme=dracula&icon_color=AA0017">
+  <img src="https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true&theme=tokyonight&icon_color=AA0017">
 </p>
 
 <h3 align="center">📫 How to reach me 📫</h3>
