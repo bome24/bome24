@@ -19,8 +19,8 @@
 
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/keibmlee@naver.com-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/ihavebomin/">
+<!--   <img src="https://img.shields.io/badge/keibmlee@naver.com-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>&nbsp
+  <a href="https://www.instagram.com/ihavebomin/"> -->
     <img src="https://img.shields.io/badge/lbmleebm@gmail.com-E4405F?style=plastic&logo=Gmail&logoColor=white"/>
   </a>&nbsp
 </p>
