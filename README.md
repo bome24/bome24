@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30&height=250&section=header&text=Welcome,%20I'm%20BoMin%20LEE.&fontSize=70" />
 </p>
 
-<h3 align="center">💻 I’m currently learning (by myself) 💻</h3>
+<!-- <h3 align="center">💻 I’m currently learning (by myself) 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white"/>
 </p>
@@ -10,7 +10,7 @@
 <h3 align="center">💻 I’m currently learning (in school) 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp
-</p>
+</p> -->
 
 <h3 align="center">⚡ GitHub Status ⚡</h3>
 <p align="center">
