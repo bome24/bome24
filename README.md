@@ -10,12 +10,12 @@
 <h3 align="center">💻 I’m currently learning (in school) 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp
-</p> -->
+</p> 
 
 <h3 align="center">⚡ GitHub Status ⚡</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bome24&show_icons=true&theme=tokyonight&icon_color=AA0017">
-</p>
+</p> -->
 
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
