@@ -20,7 +20,6 @@
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/lbmleebm@gmail.com-E4405F?style=plastic&logo=Gmail&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=plastic&link=https://www.linkedin.com/in/bomin-lee-a357b729a"/>
 </p>
 
 
